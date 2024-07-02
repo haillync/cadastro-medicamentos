@@ -59,6 +59,12 @@
 * **Quando ele** altera os campos desejados e clica em "Salvar",
 * **Então** o sistema deve atualizar as informações do medicamento e exibir uma mensagem de sucesso.
 
+## Cenário 5: Exclusão de um medicamento
+
+* **Dado que** o administrador acessa a funcionalidade de exclusão de um medicamento,
+* **Quando ele** confirma que seu intenção é excluir clica em "Sim",
+* **Então** o sistema deve excluir o medicamento e exibir uma mensagem de sucesso.
+
 # Protótipo
 ## Protótipo da Tela de Cadastro de Medicamentos  (link-para-o-prototipo)
 +------------------------------------------------------------+
