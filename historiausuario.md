@@ -67,30 +67,7 @@
 
 # Protótipo
 ## Protótipo da Tela de Cadastro de Medicamentos  (link-para-o-prototipo)
-+------------------------------------------------------------+
-|                Cadastro de Medicamentos                    |
-+------------------------------------------------------------+
-| Nome do Medicamento: [______________________________]      |
-|                                                           |
-| Princípios Ativos: [Selecione Princípios Ativos] [Add]    |
-|                                                           |
-| +-------------------+-------------------+-----------------+
-| | Princípio Ativo   | Concentração      | Unidade         |
-| +-------------------+-------------------+-----------------+
-| | [_______________] | [______________]  | [___________]   |
-| | [_______________] | [______________]  | [___________]   |
-| +-------------------+-------------------+-----------------+
-|                                                           |
-| Forma de Apresentação: [Selecione Forma]                  |
-|                                                           |
-| Via de Administração: [Selecione Via]                     |
-|                                                           |
-| Medicamento Controlado: [ ] Sim                           |
-|                                                           |
-| Nomes Similares: [______________________________]         |
-|                                                           |
-|                    [Salvar]  [Cancelar]                   |
-+------------------------------------------------------------+
+
 
 
 # Descrição dos Campos
