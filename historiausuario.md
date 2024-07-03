@@ -75,6 +75,8 @@ https://www.figma.com/proto/K8pXcHK4UHx8zHyjEkXz0M/HAILLYN-Manuten%C3%A7%C3%A3o-
 
 https://www.figma.com/proto/K8pXcHK4UHx8zHyjEkXz0M/HAILLYN-Manuten%C3%A7%C3%A3o-Busca-de-medicamentos?node-id=0-1&t=yy6a0CRrQ9RLgfKc-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=256%3A2284&show-proto-sidebar=1
 
+https://www.figma.com/proto/K8pXcHK4UHx8zHyjEkXz0M/HAILLYN-Manuten%C3%A7%C3%A3o-Busca-de-medicamentos?node-id=0-1&t=yy6a0CRrQ9RLgfKc-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=258%3A5549&show-proto-sidebar=1
+
 
 # Descrição dos Campos
 (link-descrição dos campos)
