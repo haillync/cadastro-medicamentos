@@ -79,10 +79,61 @@ https://www.figma.com/proto/K8pXcHK4UHx8zHyjEkXz0M/HAILLYN-Manuten%C3%A7%C3%A3o-
 
 
 # Descrição dos Campos
-(link-descrição dos campos)
+## Detalhamento dos Campos:
+
+   Nome do Medicamento
+   Tipo: Texto
+   Tamanho: 100 caracteres
+   Máscara: Não aplicável
+   Hint: "Informe o nome comercial do medicamento"
+   
+   Princípios Ativos
+   Tipo: Multi-seleção
+   Tamanho: -
+   Máscara: Não aplicável
+   Hint: "Selecione os princípios ativos do medicamento"
+      Campos internos:
+         Princípio Ativo
+         Tipo: Seleção a partir de um cadastro pré-existente
+         Tamanho: -
+         Máscara: Não aplicável
+         Hint: "Selecione o princípio ativo"
+         Concentração
+         Tipo: Numérico
+         Tamanho: 10 caracteres
+         Máscara: 99.99
+         Hint: "Informe a concentração do princípio ativo"
+         Unidade de Medida
+         Tipo: Seleção
+         Tamanho: -
+         Máscara: Não aplicável
+         Hint: "Selecione a unidade de medida"
+      
+   Forma de Apresentação
+   Tipo: Seleção
+   Tamanho: -
+   Máscara: Não aplicável
+   Hint: "Selecione a forma de apresentação"
+   
+   Via de Administração
+   Tipo: Seleção
+   Tamanho: -
+   Máscara: Não aplicável
+   Hint: "Selecione a via de administração"
+   
+   Medicamento Controlado
+   Tipo: Checkbox
+   Tamanho: -
+   Máscara: Não aplicável
+   Hint: "Marque se o medicamento é controlado"
+   
+   Nomes Similares
+   Tipo: Texto
+   Tamanho: 255 caracteres
+   Máscara: Não aplicável
+   Hint: "Informe nomes similares do medicamento"
 
 # Implementação da Funcionalidade
-
 ## Funcionalidade de Cadastro e Manutenção de Medicamentos
 
 * **Manter Medicamentos:** Permite ao administrador cadastrar, editar e excluir medicamentos.
